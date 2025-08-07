@@ -11,7 +11,7 @@ WHERE district LIKE 'K%a'
 
 **Скриншоты:**
 
-![имя_для_отображения](screenshots01/step01_unique_districts.png)
+![01](screenshots/step01_unique_districts.png)
 
 ⸻
 
@@ -29,7 +29,7 @@ WHERE payment_date BETWEEN '2005-06-15' AND '2005-06-18'
 
 **Скриншоты:**
 
-![имя_для_отображения](screenshots02/step02_payments_filtered.png)
+![02](screenshots/step02_payments_filtered.png)
 
 ⸻
 
@@ -46,7 +46,7 @@ LIMIT 5;
 
 **Скриншоты:**
 
-![имя_для_отображения](screenshots03/step03_last_rentals.png)
+![03](screenshots/step03_last_rentals.png)
 
 ⸻
 
@@ -66,4 +66,4 @@ WHERE active = 1
 
 **Скриншоты:**
 
-![имя_для_отображения](screenshots04/step04_customers.png)
+![04](screenshots/step04_customers.png)
